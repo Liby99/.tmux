@@ -2,4 +2,21 @@
 
 ### Prefix
 
-`Ctrl + z`
+```
+`
+```
+
+### Installation
+
+First clone the repository recursively
+
+```
+$ git clone --recursive git@github.com:Liby99/tmux-config
+```
+
+Then install (basically copy) the files to the root folder
+
+```
+$ cd tmux-config
+$ ./install.sh
+```
