@@ -1,9 +1,9 @@
 [submodule ".tmux/plugin/tmux-sensible"]
 	path = .tmux/plugin/tmux-sensible
-	url = git@github.com:tmux-plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
 [submodule ".tmux/plugin/tpm"]
 	path = .tmux/plugin/tpm
-	url = git@github.com:tmux-plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
 [submodule ".tmux/plugin/tmux-better-mouse-mode"]
 	path = .tmux/plugin/tmux-better-mouse-mode
-	url = git@github.com:NHDaly/tmux-better-mouse-mode
+	url = https://github.com/NHDaly/tmux-better-mouse-mode
